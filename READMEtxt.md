@@ -5,7 +5,6 @@ This project implements a secure, containerized authentication microservice usin
 
 This project was developed as part of the *Partnr Mandatory Task*.
 
----
 
 ## Objective
 To build a production-ready microservice that:
